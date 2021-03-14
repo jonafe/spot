@@ -1,4 +1,4 @@
-# Spot
+# Spot 🔎
 
 Recursively search files in the directory tree
 
