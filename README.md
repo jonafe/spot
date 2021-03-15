@@ -11,3 +11,9 @@ Recursively search files
 
 Usage: spot <file> [path]
 ```
+
+## Installation
+
+```console
+curl -sS https://raw.githubusercontent.com/jonafe/spot/HEAD/spot.sh > /usr/local/bin/spot && chmod 755 /usr/local/bin/spot
+```
