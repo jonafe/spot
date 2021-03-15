@@ -1,13 +1,13 @@
 # Spot
 
-Recursively search files in the directory tree
+Recursively search files
 
 ## Usage
 
 ```console
 $ spot
-spot v0.1.0
-Recursively search files in the directory tree
+spot v0.1.1
+Recursively search files
 
-Usage: spot <file>
+Usage: spot <file> [path]
 ```
