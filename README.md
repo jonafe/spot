@@ -6,10 +6,19 @@ Recursively search files
 
 ```console
 $ spot
-spot v0.1.1
+
 Recursively search files
 
-Usage: spot <file> [path]
+Usage:
+  spot <file> [path]
+
+Options
+  -h, --help               Get help
+  -v, --version            Print version
+
+Examples
+  spot document.txt        Search 'document.txt' recursively starting from current working directory
+  spot script /usr/local/  Search 'script' recursively starting from /usr/local/
 ```
 
 ## Installation
