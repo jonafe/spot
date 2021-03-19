@@ -7,10 +7,10 @@ print_usage() {
   printf "\nRecursively search files\n\n"
   printf "Usage:\n"
   printf "  spot <file> [path]\n\n"
-  printf "Options\n"
+  printf "Options:\n"
   printf "  -h, --help               Get help\n"
   printf "  -v, --version            Print version\n\n"
-  printf "Examples\n"
+  printf "Examples:\n"
   printf "  spot document.txt        Search 'document.txt' recursively starting from current working directory\n"
   printf "  spot script /usr/local/  Search 'script' recursively starting from /usr/local/\n\n"
   exit 0
