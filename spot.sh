@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-VERSION="v0.1.2"
+VERSION="v0.2.0"
 IFS=$'\n'
 
 print_usage() {
