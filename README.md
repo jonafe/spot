@@ -1,10 +1,10 @@
 # Spot
 
-Recursively search files
+Recursively search files.
 
 ## Usage
 
-```console
+```shell
 $ spot
 
 Recursively search files
@@ -23,6 +23,6 @@ Examples:
 
 ## Installation
 
-```console
-curl -sSL https://github.com/jonafe/spot/releases/download/v0.2.0/spot.sh > /usr/local/bin/spot && chmod 755 /usr/local/bin/spot
+```shell
+$ curl -sSL https://github.com/jonafe/spot/releases/download/v0.2.0/spot.sh > /usr/local/bin/spot && chmod 755 /usr/local/bin/spot
 ```
