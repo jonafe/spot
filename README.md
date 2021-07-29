@@ -24,5 +24,5 @@ Examples:
 ## Installation
 
 ```shell
-$ curl -sSL https://github.com/jonafe/spot/releases/download/v0.2.0/spot.sh > /usr/local/bin/spot && chmod 755 /usr/local/bin/spot
+$ curl -sSL https://github.com/jonafll/spot/releases/download/v0.2.0/spot.sh > /usr/local/bin/spot && chmod 755 /usr/local/bin/spot
 ```
